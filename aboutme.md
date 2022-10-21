@@ -8,6 +8,6 @@ Je suis Ali AYDOGDU et je suis un étudiant en dernière année de DNMADE Numér
 
 ### Voici une illustration de mon travail
 
-J'aime le graphismes épurés et je suis fan de typo et cartographie
+J'aime le design digital épurés et je suis fan de motion design et d'animation 3D/2D.
 
 ![aydogdu-ali-personae-final](/assets/img/aydogdu-ali-personae-final.png)
