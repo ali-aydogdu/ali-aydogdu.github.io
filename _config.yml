@@ -14,7 +14,7 @@ author: Ali AYDOGDU
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Me concernant: "aboutme"
+  CURRICULUM VITAE: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
