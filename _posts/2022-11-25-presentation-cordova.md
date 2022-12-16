@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Présentation de Cordova
-subtitle: Un framework multiOS pour applications mobiles
-cover-img: /assets/img/path.jpg
+title: PORTRAIT ANIMEE
+subtitle: Animation " Hello "
+cover-img: /assets/img/up.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+share-img: /assets/img/up.png
+tags: [portrait, animation]
 ---
 
 ## Cordova permet de créer des applications mobiles interopérables
 
-Voir la [documentation](https://cordova.apache.org/) cordova
+Projet scolaire réalisé, lors de ma dernière année en DN MADE : option design numérique. (lycée, Le Paraclet, à Quimper)
+Voir [l'animation](https://drive.google.com/file/d/15Cyo1NolqS7bGtvZ6V5M350NkSz-t5Xk/view?usp=share_link) portrait
