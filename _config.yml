@@ -42,9 +42,9 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -101,7 +101,7 @@ post_search: true
 
 # --- Colours / background image --- #
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour
+Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#D4EBF7"
 navbar-text-col: "#404040"
