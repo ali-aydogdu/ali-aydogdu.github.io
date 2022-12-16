@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: UTOPIE
+subtitle: Mon Lieu Idéal
+cover-img: /assets/img/utopie.png
 thumbnail-img: /assets/img/utopie.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+share-img: /assets/img/utopie.png
+tags: [utopie, sketchup]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+J'ai réalisé un bâtiment sur le thème d'une maison aquatique. J’ai eu l’idée, de créer un toit hors du commun faisant référence à un aquarium où des poissons, une tortue... (des animaux marins) circulent dedans. On retrouve à l’extérieur de ce bâtiment, une fontaine et la terre qui tourne autour de la maison aquatique pour rappeler cet aspect environnemental et on pourra apercevoir un aquarium retourné qui peut faire penser qu’il y a un univers parallèle au-dessous de la maison, avec un chat dessus pour faire un clin d’œil. L’intérieur du bâtiment à une ambiance assez spatiale qui peut faire penser à l’espace on y trouve un navire qui est le moyen de déplacement.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+J’ai voulu me lancer pour la première fois dans la création de volume 3D. J’ai réalisé mon projet final, sur le logiciel “ StechUp ”. Cela m’a permis de créer ma Maison Utopique (Utopie), de mes rêves entièrement de l’extérieur à l’intérieur.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Ce projet sur l’utopie m’a permis de commencer et apprendre à réaliser des constructions tel qu'un bâtiment en volume 3D, de créer des éléments de décor (les poissons, la tortue...) et d'implanter différents effets comme le toit fait d’eau, pour en faire ensuite des illustrations. J'ai beaucoup apprécié de faire ce projet en outils d'expression, cela m'a permis d'enfin me lancer dans des projets en volume 3D. Je vais continuer, de développer mes compétences et d'en apprendre plus, sur les différents logiciels de créations numériques en 3D comme celui de " SketChup " que j'ai utilisé pour ce projet-ci. Ma Maison Aquatique, pourrait avoir une potentielle suite d'approfondissement, en améliorant les graphismes, puis en imaginant cette fois-ci une animation sur mon bâtiment par exemple l'eau du toit serait en mouvement, les poissons nageraient dans l'eau, puis la tortue bougerait dedans et on rentrerait plus dans les détails pour l'intérieur du bâtiment, en y ajoutant des éléments de décor, comme des objets par exemple car je me suis principalement concentré sur l'extérieur de ce bâtiment, qui est important.
