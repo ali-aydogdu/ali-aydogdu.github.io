@@ -2,9 +2,9 @@
 layout: post
 title: PORTRAIT ANIMÉE
 subtitle: Animation " Hello "
-cover-img: /assets/img/pt.png
-thumbnail-img: /assets/img/portrait.png
-share-img: /assets/img/pt.png
+cover-img: /assets/img/portrait.png
+thumbnail-img: /assets/img/pt.png
+share-img: /assets/img/portrait.png
 tags: [portrait, animation, 2D]
 ---
 
