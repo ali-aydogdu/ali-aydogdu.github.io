@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Me concernant
-subtitle: Voici comment bien présenter ma page
+title: CURRICULUM VITAE
+subtitle: Ali AYDOGDU
 ---
 
-Je suis Ali AYDOGDU et je suis un étudiant en dernière année de DNMADE Numérique au lycée, Le Paraclet.
+Actuellement étudiant en 3ème année de DN MADE parcours Numérique, niveau licence au lycée des métiers Le Paraclet à Quimper.
 
-### Voici une illustration de mon travail
+### RECHERCHE D’UNE ALTERNANCE EN AUDIOVISUEL
 
-J'aime le design digital épurés et je suis fan de motion design et d'animation.
+Étant passionné par l’univers de l’animation depuis mon enfance. Je suis à la recherche d’une poursuite d’étude dans le domaine de l’audiovisuel, idéalement.
 
-![aydogdu-ali-personae-final](/assets/img/aydogdu-ali-personae-final.png)
+![aydogdu-ali-cv-final-refonte-2022](/assets/img/aydogdu-ali-cv-final-refonte-2022.pdf)
