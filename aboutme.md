@@ -4,7 +4,7 @@ title: CV
 subtitle: Ali AYDOGDU
 ---
 
-Actuellement étudiant en 3ème année de DN MADE parcours Numérique, niveau licence au lycée des métiers Le Paraclet à Quimper.
+Actuellement étudiant en 3ème année de DN MADE parcours Numérique, niveau licence au lycée des métiers Le Paraclet, à Quimper.
 
 ### RECHERCHE D’UNE ALTERNANCE EN AUDIOVISUEL
 
