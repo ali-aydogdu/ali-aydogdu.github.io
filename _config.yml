@@ -105,15 +105,15 @@ Personalize the colours in your website. Colour values can be any valid CSS colo
 
 navbar-col: "#D4EBF7"
 navbar-text-col: "#404040"
-navbar-border-col: "DDDDDD"
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#4FF563"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#B7F5D4"
-footer-hover-col: "#A4F5B9"
+footer-link-col: "#404040"
+footer-hover-col: "#4FF563"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
